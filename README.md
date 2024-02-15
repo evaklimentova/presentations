@@ -6,4 +6,4 @@
 
 - 18.10.2023 Seminar in Warsaw - **Can we create artificial knots with protein diffusion models?**; [slides](Talks/Artificial_knots_with_diffusion_models-Warsaw_seminar.pdf) 
 
-- 14.2.2024 [Knots & Proteins]() in Ljubljana - **Unveiling the Entangled Landscape of Artificial Knotted Proteins**; [slides](https://docs.google.com/presentation/d/173RdVdDTco97UvNEDqeLt_U60dRQJQxad36_Rh9WsM4/edit?usp=sharing)
+- 14.2.2024 [Knots & Proteins]() in Ljubljana - **Unveiling the Entangled Landscape of Artificial Knotted Proteins**; [slides](Talks/2024_Artificial_knotted_proteins.pdf)
