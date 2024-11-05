@@ -6,6 +6,8 @@
 
 - 5.4.2024 Seminar in Loschmidt Laboratories in Brno - **Artificial Knotted Proteins**; [slides](Talks/2024_Loschmidt_seminar.pdf)
 
+- 5.11.2024 Molecular Medicine Seminar, CEITEC Brno - **Knot or Not? Machine learning for knotted proteins**; [slides](Talks/2024_MolMed_Knot_or_Not.pdf)
+
 
 ## 2023
 
