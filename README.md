@@ -1,5 +1,9 @@
 # Presentations
 
+## 2025
+
+- 16.4.2025 [Sitola seminar](https://www.sitola.cz/wordpress/seminar/), FI MUNI Brno - **Refining structure-based search in AlphaFold DB: Including AlphaFold’s prediction confidence measures into AlphaFind**; [slides](Talks/2025_Sitola.pdf)
+
 ## 2024
 
 - 14.2.2024 [Knots & Proteins](https://knots.splet.arnes.si/) in Ljubljana - **Unveiling the Entangled Landscape of Artificial Knotted Proteins**; [slides](Talks/2024_Artificial_knotted_proteins.pdf)
