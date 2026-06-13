@@ -1,5 +1,9 @@
 # Presentations
 
+## 2026
+
+- 12.6.2026 PhD defense, CEITEC MU - **Machine Learning applications for genomic and proteomic sequences**; [slides](Talks/PhD_defense.pdf)
+
 ## 2025
 
 - 16.4.2025 [Sitola seminar](https://www.sitola.cz/wordpress/seminar/), FI MUNI Brno - **Refining structure-based search in AlphaFold DB: Including AlphaFold’s prediction confidence measures into AlphaFind**; [slides](Talks/2025_Sitola.pdf)
